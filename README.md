@@ -9,7 +9,7 @@
 - **LLM agents and data infrastructure** for scientific literature mining.
 
 #### 📝 Selected Publications
-- **Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning.**
+- **[Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning.](https://icml.cc/virtual/2026/poster/62008)**
   **Ruihan Liu**, Yu Ji, Jianbo Yu, Shifu Yan, Qingchao Jiang.
   *ICML 2026* (Poster, CCF-A).
 - **Topology-aware E(3)-equivariant learning for physically consistent piezoelectric tensor prediction.**
