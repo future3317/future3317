@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruihan Liu (刘睿涵) 👋
 
-🎓 First-year Ph.D. student in Computer Science at **Fudan University** (2025–), supervised by Prof. Jianbo Yu.
+🎓 Second-year Ph.D. student in Computer Science at **Fudan University** (2025–), supervised by Prof. Jianbo Yu.
 🎓 B.Eng. in Automation, **Beijing Institute of Technology** (2021–2025).
 
 #### 🔬 Research Interests
